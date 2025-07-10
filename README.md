@@ -1,3 +1,4 @@
 # leetcode-solutions
-this repo is for my leetcode solution
-author-ritik rai
+this repo is for my leetcode solution.
+<br>
+uthor-ritik rai
